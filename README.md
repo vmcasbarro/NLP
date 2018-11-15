@@ -23,3 +23,17 @@ Installing textacy, basically a useful add-on to spaCy
 <br>
 **4. Saving and running a script**
 Python scripts end in a `.py` extension. To run a python script, you can use the terminal like so: `$ python3 path/to/script.py`.
+
+**Helpful Resources**
+https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html
+https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1
+https://www.altoros.com/blog/natural-language-processing-saves-businesses-millions-of-dollars/
+https://www.slideshare.net/secret/nOMzKg6innooJG
+https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html
+https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
+https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788
+https://www.sas.com/en_us/insights/articles/analytics/using-analytics-to-prevent-sepsis.html#/
+https://blog.algorithmia.com/introduction-natural-language-processing-nlp/
+https://blog.algorithmia.com/create-your-own-machine-learning-powered-rss/
+https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c
+https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html
