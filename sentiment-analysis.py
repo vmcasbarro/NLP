@@ -8,4 +8,6 @@ input = {
 }
 client = Algorithmia.client(client_key)
 algo = client.algo('nlp/SentimentAnalysis/1.0.5')
+print(' ')
 print(algo.pipe(input).result)
+print(' ')
