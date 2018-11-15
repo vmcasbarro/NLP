@@ -56,7 +56,7 @@ statements = textacy.extract.subject_verb_object_triples(doc)
 # statements = textacy.extract.semistructured_statements(doc, "Python")
 
 # Print the results
-print("Here are the things I know about Python:")
+print("Here are some SVO triples from the document: ")
 
 for statement in statements:
     subject, verb, object = statement
